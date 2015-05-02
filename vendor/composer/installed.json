@@ -1,23 +1,23 @@
 [
     {
         "name": "minecraftjp/minecraftjp-php-sdk",
-        "version": "1.1.1",
-        "version_normalized": "1.1.1.0",
+        "version": "1.1.2",
+        "version_normalized": "1.1.2.0",
         "source": {
             "type": "git",
             "url": "https://github.com/MinecraftJP/minecraftjp-php-sdk.git",
-            "reference": "ef7ed4b006d9f199701d1d10b1f0f9dbdde2d6da"
+            "reference": "38313db99dc22b87c3f058a04ed793bfe3c2fe56"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/MinecraftJP/minecraftjp-php-sdk/zipball/ef7ed4b006d9f199701d1d10b1f0f9dbdde2d6da",
-            "reference": "ef7ed4b006d9f199701d1d10b1f0f9dbdde2d6da",
+            "url": "https://api.github.com/repos/MinecraftJP/minecraftjp-php-sdk/zipball/38313db99dc22b87c3f058a04ed793bfe3c2fe56",
+            "reference": "38313db99dc22b87c3f058a04ed793bfe3c2fe56",
             "shasum": ""
         },
         "require": {
             "php": ">=5.2.0"
         },
-        "time": "2015-05-01 05:16:57",
+        "time": "2015-05-02 01:28:55",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
